@@ -1,2 +1,2 @@
-# Photography-Website-
+# Photography-Website
 HTML | CSS | JS
